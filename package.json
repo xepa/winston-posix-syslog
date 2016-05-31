@@ -10,7 +10,7 @@
   "dependencies": {
     "util": "0.4.x",
     "posix": "4.0.x",
-    "winston": "2.1.x"
+    "winston": "2.2.x"
   },
   "devDependencies": {
     "vows": "0.7.x"
